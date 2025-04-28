@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./Dice.css";
 
 const DiceGame = () => {
     const [num, setNum] = useState(0);
